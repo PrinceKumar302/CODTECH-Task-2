@@ -16,3 +16,13 @@ This tool scans a network or website for common security vulnerabilities such as
 
 
 pip install -r requirements.txt
+
+
+Usage
+
+bash scripts/run_scan.sh
+
+
+Testing
+
+python3 -m unittest discover tests
