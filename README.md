@@ -44,6 +44,7 @@ bash scripts/run_scan.sh
 Testing
 
 python3 -m unittest discover tests
-![output 1](https://github.com/user-attachments/assets/97cb44ba-8789-44cf-ae04-a95feb46d089)
-![output 2](https://github.com/user-attachments/assets/c2de2879-dabf-4c50-a445-37bb99f68acd)
+![output 1](https://github.com/user-attachments/assets/90d65c50-6778-4392-bd0a-a46d8ab1758f)
+![output 2](https://github.com/user-attachments/assets/60660a72-c3f4-401f-a85c-06baa705886c)
+
 
